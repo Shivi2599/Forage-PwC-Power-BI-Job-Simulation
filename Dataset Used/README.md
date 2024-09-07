@@ -1,2 +1,2 @@
 
-## This contains raw dataset used for the analysis.
+## This folder contains raw dataset used for the analysis.
