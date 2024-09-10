@@ -62,13 +62,21 @@ This dashboard uncovers the factors contributing to slow progress in diversity a
 - **Excel:** For data cleaning and initial analysis.
 - **Data Storytelling:** Crafting a narrative around business insights through visualizations.
 
+### Repository Structure
+Each task in this project has been organized into its own folder for easy navigation. Inside each folder, you'll find the corresponding Power BI dashboard along with relevant file.
+
+- **Task 1 - Customer Service Dashboard:** Located in the `Task_1_Customer_Service_Dashboard` folder. This folder contains the Power BI file.
+
+- **Task 2 - Customer Retention Dashboard:** The retention-focused dashboard can be found in the `Task_2_Customer_Retention_Dashboard` folder.
+
+- **Task 3 - Diversity and Inclusion Dashboard:** The final task's diversity dashboard is located in the `Task_3_Diversity_and_Inclusion_Dashboard` folder, including visualizations.
+
+Each folder provides the Power BI file (**.pbix**).
+
 ### Conclusion
 This project demonstrates my ability to combine **data analysis**, **visual storytelling**, and **strategic insights to solve real business challenges**. By focusing on key performance metrics and uncovering trends through detailed analysis, I delivered solutions that are easy for stakeholders to understand and act upon.
 
 The dashboards in this repository reflect a deep attention to detail and a creative approach to data storytelling. Each visualization tells a unique story, aimed at driving business decisions and improving operations.
-
-
-
 
 
 
