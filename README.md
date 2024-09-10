@@ -29,6 +29,9 @@ Create a comprehensive dashboard that visualizes key performance indicators (KPI
 #### Data Story
 By analyzing customer service operations, this dashboard highlights areas of strength and opportunities for improvement, offering a clear narrative on how the telecom company can optimize its service.
 
+![Screenshot 2024-09-10 191210](https://github.com/user-attachments/assets/0a7233b4-a762-4f63-bd68-140ff3f69469)
+
+
 #### 2. Customer Retention Dashboard
 
 #### Objective
@@ -43,6 +46,10 @@ Develop a retention-focused dashboard to identify at-risk customers and offer pr
 #### Data Story
 This dashboard tells the story of customer retention through predictive insights. By uncovering key trends, it equips the retention team with the information needed to intervene early and retain valuable customers.
 
+![Screenshot 2024-09-10 192439](https://github.com/user-attachments/assets/1166f95b-5797-4f42-974f-f1a68b4af468)
+![Screenshot 2024-09-10 192452](https://github.com/user-attachments/assets/5b605a43-eaec-4028-8834-25c38993cde0)
+
+
 #### 3. Diversity and Inclusion Dashboard
 
 #### Objective
@@ -55,6 +62,9 @@ Create a dashboard that analyzes gender balance at the executive level, offering
 
 #### Data Story
 This dashboard uncovers the factors contributing to slow progress in diversity at the executive level. It offers a clear, data-driven narrative that helps the telecom client take actionable steps toward building a more inclusive leadership team.
+
+![Dashboard 1](https://github.com/user-attachments/assets/a1a5c035-483d-44fd-8fa3-ad8ad863c144)
+![Dashboard 2](https://github.com/user-attachments/assets/3a985f92-6534-45c0-bab0-ecc268bde97d)
 
 #### Tools and Technologies
 
