@@ -1,7 +1,7 @@
 # Forage-PwC-Power-BI-Job-Simulation
 
 ## Overview
-This repository showcases my work during the PwC Power BI Job Simulation, where I tackled key business challenges for a telecom client through data-driven storytelling. Each task is designed to provide actionable insights, leveraging data visualization and analysis to communicate complex ideas clearly and effectively.
+This repository showcases my work during the **PwC Power BI Job Simulation**, where I tackled key business challenges for a telecom client through data-driven storytelling. Each task is designed to provide actionable insights, leveraging data visualization and analysis to communicate complex ideas clearly and effectively.
 
 My approach throughout this project emphasized attention to detail, problem-solving, and creativity, while crafting narratives that guide decision-making.
 
