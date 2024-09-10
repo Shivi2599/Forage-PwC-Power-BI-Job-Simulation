@@ -1,2 +1,1 @@
-
-## This folder contains raw dataset used for the analysis.
+# Task 1 - Customer Service Dashboard
